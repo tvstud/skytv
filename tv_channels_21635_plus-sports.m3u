@@ -1,0 +1,939 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-name="Flowsport: 24/7"tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ufic3QgBJBF_nk_jMILp3wAAAA&pid=Api&P=0&w=300&h=300"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Flowsport: 24/7
+http://163.172.5.94:8080/21635/86637/4147
+#EXTINF:-1 tvg-id=""tvg-name="Flow Sport"tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ufic3QgBJBF_nk_jMILp3wAAAA&pid=Api&P=0&w=300&h=300"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Flow Sport
+http://163.172.5.94:8080/21635/86637/4921
+#EXTINF:-1 tvg-id=""tvg-name="Flow Sport Extra 3"tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ufic3QgBJBF_nk_jMILp3wAAAA&pid=Api&P=0&w=300&h=300"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Flow Sport Extra 3
+http://163.172.5.94:8080/21635/86637/4922
+#EXTINF:-1 tvg-id=""tvg-name="Flow Sport Extra 4"tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ufic3QgBJBF_nk_jMILp3wAAAA&pid=Api&P=0&w=300&h=300"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Flow Sport Extra 4
+http://163.172.5.94:8080/21635/86637/4923
+#EXTINF:-1 tvg-id=""tvg-name="Flow Sport Extra 5"tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ufic3QgBJBF_nk_jMILp3wAAAA&pid=Api&P=0&w=300&h=300"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Flow Sport Extra 5
+http://163.172.5.94:8080/21635/86637/4924
+#EXTINF:-1 tvg-id=""tvg-name="RUSH Sport"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com RUSH Sport
+http://163.172.5.94:8080/21635/86637/4925
+#EXTINF:-1 tvg-id="skysportsnews.uk"tvg-name="UK FHD: Sky Sports News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Sky_Sports_News_logo_2020.svg/375px-Sky_Sports_News_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports News
+http://163.172.5.94:8080/21635/86637/2567
+#EXTINF:-1 tvg-id="skysportsnews.uk"tvg-name="UK HD: Sky Sports News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Sky_Sports_News_logo_2020.svg/375px-Sky_Sports_News_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports News
+http://163.172.5.94:8080/21635/86637/2578
+#EXTINF:-1 tvg-id="skysportsnews.uk"tvg-name="UK SD: Sky Sports News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Sky_Sports_News_logo_2020.svg/375px-Sky_Sports_News_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports News
+http://163.172.5.94:8080/21635/86637/2589
+#EXTINF:-1 tvg-id="skysportsmainevent.uk"tvg-name="UK FHD: Sky Sports Main Event"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Main Event
+http://163.172.5.94:8080/21635/86637/2565
+#EXTINF:-1 tvg-id="skysportsmainevent.uk"tvg-name="UK HD: Sky Sports Main Event"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Main Event
+http://163.172.5.94:8080/21635/86637/2576
+#EXTINF:-1 tvg-id="skysportsmainevent.uk"tvg-name="UK SD: Sky Sports Main Event"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Sky_Sports_Main_Event_2020.svg/revision/latest/scale-to-width-down/350?cb=20200924152245"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Main Event
+http://163.172.5.94:8080/21635/86637/2587
+#EXTINF:-1 tvg-id="skysportsfootball.uk"tvg-name="UK FHD: Sky Sports Football"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Sky_Sports_Football.svg/revision/latest/scale-to-width-down/300?cb=20170718104122"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Football
+http://163.172.5.94:8080/21635/86637/2563
+#EXTINF:-1 tvg-id="skysportsfootball.uk"tvg-name="UK HD: Sky Sports Football"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Sky_Sports_Football.svg/revision/latest/scale-to-width-down/300?cb=20170718104122"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Football
+http://163.172.5.94:8080/21635/86637/2574
+#EXTINF:-1 tvg-id="skysportsfootball.uk"tvg-name="UK SD: Sky Sports Football"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Sky_Sports_Football.svg/revision/latest/scale-to-width-down/300?cb=20170718104122"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Football
+http://163.172.5.94:8080/21635/86637/2585
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk"tvg-name="UK FHD: Sky Sports Prem L"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/405px-Premier_League_Logo.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Prem L
+http://163.172.5.94:8080/21635/86637/2569
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk"tvg-name="UK HD: Sky Sports Prem L"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/405px-Premier_League_Logo.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Prem L
+http://163.172.5.94:8080/21635/86637/2580
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk"tvg-name="UK SD: Sky Sports Prem L"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/405px-Premier_League_Logo.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Prem L
+http://163.172.5.94:8080/21635/86637/2591
+#EXTINF:-1 tvg-id="skysportsarena.uk"tvg-name="UK FHD: Sky Sports Arena"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Sky_Sports_Arena.svg/revision/latest/scale-to-width-down/300?cb=20170718104551"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Arena
+http://163.172.5.94:8080/21635/86637/2560
+#EXTINF:-1 tvg-id="skysportsarena.uk"tvg-name="UK HD: Sky Sports Arena"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Sky_Sports_Arena.svg/revision/latest/scale-to-width-down/300?cb=20170718104551"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Arena
+http://163.172.5.94:8080/21635/86637/2571
+#EXTINF:-1 tvg-id="skysportsarena.uk"tvg-name="UK SD: Sky Sports Arena"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Sky_Sports_Arena.svg/revision/latest/scale-to-width-down/300?cb=20170718104551"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Arena
+http://163.172.5.94:8080/21635/86637/2582
+#EXTINF:-1 tvg-id="skysportscricket.uk"tvg-name="UK FHD: Sky Sports Cricket"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Sky_Sports_Cricket_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924153122"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Cricket
+http://163.172.5.94:8080/21635/86637/2561
+#EXTINF:-1 tvg-id="skysportscricket.uk"tvg-name="UK HD: Sky Sports Cricket"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Sky_Sports_Arena.svg/revision/latest/scale-to-width-down/300?cb=20170718104551"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Cricket
+http://163.172.5.94:8080/21635/86637/2572
+#EXTINF:-1 tvg-id="skysportscricket.uk"tvg-name="UK SD: Sky Sports Cricket"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Sky_Sports_Arena.svg/revision/latest/scale-to-width-down/300?cb=20170718104551"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Cricket
+http://163.172.5.94:8080/21635/86637/2583
+#EXTINF:-1 tvg-id="skysportsf1.uk"tvg-name="UK FHD: Sky Sports F1"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/375px-Sky_Sports_F1_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports F1
+http://163.172.5.94:8080/21635/86637/2562
+#EXTINF:-1 tvg-id="skysportsf1.uk"tvg-name="UK HD: Sky Sports F1"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/375px-Sky_Sports_F1_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports F1
+http://163.172.5.94:8080/21635/86637/2573
+#EXTINF:-1 tvg-id="skysportsf1.uk"tvg-name="UK SD: Sky Sports F1"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/375px-Sky_Sports_F1_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports F1
+http://163.172.5.94:8080/21635/86637/2584
+#EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="UK FHD: Sky Sports Golf"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Golf
+http://163.172.5.94:8080/21635/86637/2564
+#EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="UK HD: Sky Sports Golf"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Golf
+http://163.172.5.94:8080/21635/86637/2575
+#EXTINF:-1 tvg-id="skysportsgolf.uk"tvg-name="UK SD: Sky Sports Golf"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Sky_Sports_Golf_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152539"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Golf
+http://163.172.5.94:8080/21635/86637/2586
+#EXTINF:-1 tvg-id="skysportsmix.uk"tvg-name="UK FHD: Sky Sports Mix"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152645"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Mix
+http://163.172.5.94:8080/21635/86637/2566
+#EXTINF:-1 tvg-id="skysportsmix.uk"tvg-name="UK HD: Sky Sports Mix"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152645"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Mix
+http://163.172.5.94:8080/21635/86637/2577
+#EXTINF:-1 tvg-id="skysportsmix.uk"tvg-name="UK SD: Sky Sports Mix"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_Mix_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152645"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Mix
+http://163.172.5.94:8080/21635/86637/2588
+#EXTINF:-1 tvg-id="skysportsaction.uk"tvg-name="UK FHD: Sky Sports Action AND NFL"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Sky_Sports_Action_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20200912144556"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Action AND NFL
+http://163.172.5.94:8080/21635/86637/2568
+#EXTINF:-1 tvg-id="skysportsaction.uk"tvg-name="UK HD: Sky Sports ACTION And NFL"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Sky_Sports_Action_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20200912144556"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports ACTION And NFL
+http://163.172.5.94:8080/21635/86637/2579
+#EXTINF:-1 tvg-id="skysportsaction.uk"tvg-name="UK SD: Sky Sports Action And NFL"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Sky_Sports_Action_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20200912144556"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Action And NFL
+http://163.172.5.94:8080/21635/86637/2590
+#EXTINF:-1 tvg-id="skysportsracing.uk"tvg-name="UK FHD: Sky Sports Racing"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/375px-Sky_Sports_Racing_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK FHD: Sky Sports Racing
+http://163.172.5.94:8080/21635/86637/2570
+#EXTINF:-1 tvg-id="skysportsracing.uk"tvg-name="UK HD: Sky Sports Racing"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/375px-Sky_Sports_Racing_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK HD: Sky Sports Racing
+http://163.172.5.94:8080/21635/86637/2581
+#EXTINF:-1 tvg-id="skysportsracing.uk"tvg-name="UK SD: Sky Sports Racing"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/375px-Sky_Sports_Racing_logo_2020.svg.png"group-title="SKY SPORTS ",list.alliptvlinks.com UK SD: Sky Sports Racing
+http://163.172.5.94:8080/21635/86637/2592
+#EXTINF:-1 tvg-id="bt.sport.1.gb"tvg-name="UK Sport: BT Sport 1 FHD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-1-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport 1 FHD
+http://163.172.5.94:8080/21635/86637/4267
+#EXTINF:-1 tvg-id="btsport1.uk"tvg-name="UK Sport: BT Sport 1 HD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-1-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport 1 HD
+http://163.172.5.94:8080/21635/86637/4268
+#EXTINF:-1 tvg-id="bt.sport.2.gb"tvg-name="UK Sport: BT Sport 2 FHD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-2-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport 2 FHD
+http://163.172.5.94:8080/21635/86637/4269
+#EXTINF:-1 tvg-id="bt.sport.2.gb"tvg-name="UK Sport: BT Sport 2 HD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-2-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport 2 HD
+http://163.172.5.94:8080/21635/86637/4270
+#EXTINF:-1 tvg-id="btsport3.uk"tvg-name="UK Sport: BT Sport 3 FHD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-3-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport 3 FHD
+http://163.172.5.94:8080/21635/86637/4271
+#EXTINF:-1 tvg-id="btsport3.uk"tvg-name="UK Sport: BT Sport 3 HD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-3-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport 3 HD
+http://163.172.5.94:8080/21635/86637/4272
+#EXTINF:-1 tvg-id="btsportespn.uk"tvg-name="UK Sport: BT Sport Espn FHD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-espn-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport Espn FHD
+http://163.172.5.94:8080/21635/86637/4273
+#EXTINF:-1 tvg-id="btsportespn.uk"tvg-name="UK Sport: BT Sport Espn HD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-espn-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport Espn HD
+http://163.172.5.94:8080/21635/86637/4274
+#EXTINF:-1 tvg-id="btsportx1.uk"tvg-name="UK Sport: BT Sport X1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-extra-1-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport X1
+http://163.172.5.94:8080/21635/86637/4275
+#EXTINF:-1 tvg-id="btsportx2.uk"tvg-name="UK Sport: BT Sport X2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-extra-2-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport X2
+http://163.172.5.94:8080/21635/86637/4276
+#EXTINF:-1 tvg-id="btsportx3.uk"tvg-name="UK Sport: BT Sport X3"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-extra-3-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport X3
+http://163.172.5.94:8080/21635/86637/4277
+#EXTINF:-1 tvg-id="btsportx4.uk"tvg-name="UK Sport: BT Sport X4"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-extra-4-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport X4
+http://163.172.5.94:8080/21635/86637/4278
+#EXTINF:-1 tvg-id="btsportx5.uk"tvg-name="UK Sport: BT Sport X5"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-extra-5-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport X5
+http://163.172.5.94:8080/21635/86637/4279
+#EXTINF:-1 tvg-id="bt.sport.x6.gb"tvg-name="UK Sport: BT Sport X6"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bt-sport-extra-6-uk.png?raw=true"group-title="BT SPORTS",list.alliptvlinks.com UK Sport: BT Sport X6
+http://163.172.5.94:8080/21635/86637/4280
+#EXTINF:-1 tvg-id="premiersports.uk"tvg-name="UK FHD: Premier Sports 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/330px-Premier_sports_logo_2018.svg.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: Premier Sports 1
+http://163.172.5.94:8080/21635/86637/3011
+#EXTINF:-1 tvg-id="premiersports.uk"tvg-name="UK HD: Premier Sports 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/330px-Premier_sports_logo_2018.svg.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK HD: Premier Sports 1
+http://163.172.5.94:8080/21635/86637/3095
+#EXTINF:-1 tvg-id="premiersports2.uk"tvg-name="UK FHD: Premier Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/330px-Premier_sports_logo_2018.svg.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: Premier Sports 2
+http://163.172.5.94:8080/21635/86637/3012
+#EXTINF:-1 tvg-id="premiersports2.uk"tvg-name="UK HD: Premier Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/330px-Premier_sports_logo_2018.svg.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK HD: Premier Sports 2
+http://163.172.5.94:8080/21635/86637/3096
+#EXTINF:-1 tvg-id="freesports.uk"tvg-name="UK FHD: FreeSports"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/FreeSportsLogo.jpg/330px-FreeSportsLogo.jpg"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: FreeSports
+http://163.172.5.94:8080/21635/86637/2979
+#EXTINF:-1 tvg-id="eir.sport.1.gb"tvg-name="UK FHD: EIR Sports 1"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Eirsportlogo.png/220px-Eirsportlogo.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: EIR Sports 1
+http://163.172.5.94:8080/21635/86637/2972
+#EXTINF:-1 tvg-id="eir.sport.2.gb"tvg-name="UK FHD: EIR Sports 2"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Eirsportlogo.png/220px-Eirsportlogo.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: EIR Sports 2
+http://163.172.5.94:8080/21635/86637/2973
+#EXTINF:-1 tvg-id="eurosport1.uk"tvg-name="UK FHD: Eurosport 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/330px-Eurosport_Logo_2015.svg.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: Eurosport 1
+http://163.172.5.94:8080/21635/86637/2974
+#EXTINF:-1 tvg-id="eurosport2.uk"tvg-name="UK FHD: Eurosport 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/330px-Eurosport_Logo_2015.svg.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: Eurosport 2
+http://163.172.5.94:8080/21635/86637/2975
+#EXTINF:-1 tvg-id="laligatv.uk"tvg-name="UK FHD: LaLigaTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaLiga_Santander.svg/450px-LaLiga_Santander.svg.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: LaLigaTV
+http://163.172.5.94:8080/21635/86637/2999
+#EXTINF:-1 tvg-id="liverpoolfctv.uk"tvg-name="UK FHD: LFC TV"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/375px-LFC_TV_logo.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: LFC TV
+http://163.172.5.94:8080/21635/86637/3000
+#EXTINF:-1 tvg-id="mutv.uk"tvg-name="UK FHD: MUTV"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/MUTV_logo.png/300px-MUTV_logo.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: MUTV
+http://163.172.5.94:8080/21635/86637/3005
+#EXTINF:-1 tvg-id="boxnation.uk"tvg-name="UK Sport: Boxnation (1080) "tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/box-nation-uk.png?raw=true"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK Sport: Boxnation (1080)
+http://163.172.5.94:8080/21635/86637/4260
+#EXTINF:-1 tvg-id="boxnation.uk"tvg-name="UK Sport: Boxnation (720) "tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/box-nation-uk.png?raw=true"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK Sport: Boxnation (720)
+http://163.172.5.94:8080/21635/86637/4261
+#EXTINF:-1 tvg-id="racinguk.uk"tvg-name="UK Sport: Racing UK (1080) "tvg-logo="https://i.pinimg.com/564x/bc/e3/de/bce3de36af0194429b20b76268191c3b.jpg"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK Sport: Racing UK (1080)
+http://163.172.5.94:8080/21635/86637/4265
+#EXTINF:-1 tvg-id="racinguk.uk"tvg-name="FHD Racing TV"tvg-logo="https://www.bing.com/th?id=AMMS_69030c2d4ffe39a0dd20ff8b0229add0&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&cdv=1&dpr=1.5&pid=16.1"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com FHD Racing TV
+http://163.172.5.94:8080/21635/86637/2941
+#EXTINF:-1 tvg-id="sportystuff.uk"tvg-name="UK FHD: SportyStuff"tvg-logo="https://www.sportystuff.tv/assets/img/logo-ss.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK FHD: SportyStuff
+http://163.172.5.94:8080/21635/86637/3042
+#EXTINF:-1 tvg-id="liverpoolfctv.uk"tvg-name="UK HD: Liverpool FC TV"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/375px-LFC_TV_logo.png"group-title="MISCELLANEOUS UK SPORTS ",list.alliptvlinks.com UK HD: Liverpool FC TV
+http://163.172.5.94:8080/21635/86637/3089
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us"tvg-name="AFL: Fox Footy"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Fox Footy
+http://163.172.5.94:8080/21635/86637/3609
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 01"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 01
+http://163.172.5.94:8080/21635/86637/3610
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 02"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 02
+http://163.172.5.94:8080/21635/86637/3611
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 03"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 03
+http://163.172.5.94:8080/21635/86637/3612
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 04"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 04
+http://163.172.5.94:8080/21635/86637/3613
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 05"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 05
+http://163.172.5.94:8080/21635/86637/3614
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 06"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 06
+http://163.172.5.94:8080/21635/86637/3615
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 07"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 07
+http://163.172.5.94:8080/21635/86637/3616
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 08"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 08
+http://163.172.5.94:8080/21635/86637/3617
+#EXTINF:-1 tvg-id=""tvg-name="AFL: Event 09"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/390px-Australian_Football_League.svg.png"group-title="AFL FOX SPORTS",list.alliptvlinks.com AFL: Event 09
+http://163.172.5.94:8080/21635/86637/3618
+#EXTINF:-1 tvg-id="FoxSports1.us"tvg-name="AU Sport: Fox Sports 501"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-hd-hz-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports 501
+http://163.172.5.94:8080/21635/86637/3619
+#EXTINF:-1 tvg-id="FoxSports2.us"tvg-name="AU Sport: Fox Sports 502"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-hd-hz-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports 502
+http://163.172.5.94:8080/21635/86637/3620
+#EXTINF:-1 tvg-id=""tvg-name="AU Sport: Fox Sports 503"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-hd-hz-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports 503
+http://163.172.5.94:8080/21635/86637/3621
+#EXTINF:-1 tvg-id=""tvg-name="AU Sport: Fox Sports 504"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-hd-hz-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports 504
+http://163.172.5.94:8080/21635/86637/3622
+#EXTINF:-1 tvg-id=""tvg-name="AU Sport: Fox Sports 505"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-hd-hz-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports 505
+http://163.172.5.94:8080/21635/86637/3623
+#EXTINF:-1 tvg-id=""tvg-name="AU Sport: Fox Sports 506"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-hd-hz-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports 506
+http://163.172.5.94:8080/21635/86637/3624
+#EXTINF:-1 tvg-id=""tvg-name="AU Sport: Fox Sports 507"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-hd-hz-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports 507
+http://163.172.5.94:8080/21635/86637/3625
+#EXTINF:-1 tvg-id="FoxNews.us"tvg-name="AU Sport: Fox Sports News"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/australia/fox-sports-news-au.png?raw=true"group-title="AFL FOX SPORTS",list.alliptvlinks.com AU Sport: Fox Sports News
+http://163.172.5.94:8080/21635/86637/3626
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 01"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 01
+http://163.172.5.94:8080/21635/86637/3642
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 02"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 02
+http://163.172.5.94:8080/21635/86637/3643
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 03"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 03
+http://163.172.5.94:8080/21635/86637/3644
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 04"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 04
+http://163.172.5.94:8080/21635/86637/3645
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 05"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 05
+http://163.172.5.94:8080/21635/86637/3646
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 06"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 06
+http://163.172.5.94:8080/21635/86637/3647
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 07"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 07
+http://163.172.5.94:8080/21635/86637/3648
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 08"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 08
+http://163.172.5.94:8080/21635/86637/3649
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 09"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 09
+http://163.172.5.94:8080/21635/86637/3650
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 10"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 10
+http://163.172.5.94:8080/21635/86637/3651
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 11"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 11
+http://163.172.5.94:8080/21635/86637/3652
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 12"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 12
+http://163.172.5.94:8080/21635/86637/3653
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 13"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 13
+http://163.172.5.94:8080/21635/86637/3654
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 14"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 14
+http://163.172.5.94:8080/21635/86637/3655
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 15"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 15
+http://163.172.5.94:8080/21635/86637/3656
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 16"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 16
+http://163.172.5.94:8080/21635/86637/3657
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 17"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 17
+http://163.172.5.94:8080/21635/86637/3658
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 18"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 18
+http://163.172.5.94:8080/21635/86637/3659
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 19"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 19
+http://163.172.5.94:8080/21635/86637/3660
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 20"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 20
+http://163.172.5.94:8080/21635/86637/3661
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 21"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 21
+http://163.172.5.94:8080/21635/86637/3662
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 22"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 22
+http://163.172.5.94:8080/21635/86637/3663
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 23"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 23
+http://163.172.5.94:8080/21635/86637/3664
+#EXTINF:-1 tvg-id=""tvg-name="BBC Sport: Stream 24"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BBC_Sport.svg/1280px-BBC_Sport.svg.png"group-title="BBC ",list.alliptvlinks.com BBC Sport: Stream 24
+http://163.172.5.94:8080/21635/86637/3665
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 01"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 01
+http://163.172.5.94:8080/21635/86637/3666
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 02"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 02
+http://163.172.5.94:8080/21635/86637/3667
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 03"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 03
+http://163.172.5.94:8080/21635/86637/3668
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 04"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 04
+http://163.172.5.94:8080/21635/86637/3669
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 05"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 05
+http://163.172.5.94:8080/21635/86637/3670
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 06"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 06
+http://163.172.5.94:8080/21635/86637/3671
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 07"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 07
+http://163.172.5.94:8080/21635/86637/3672
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 08"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 08
+http://163.172.5.94:8080/21635/86637/3673
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 09"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 09
+http://163.172.5.94:8080/21635/86637/3674
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 10"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 10
+http://163.172.5.94:8080/21635/86637/3675
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 11"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 11
+http://163.172.5.94:8080/21635/86637/3676
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 12"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 12
+http://163.172.5.94:8080/21635/86637/3677
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: Arabic 13"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Bein_sport_news_arabia.png/revision/latest/scale-to-width-down/200?cb=20150715182336"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: Arabic 13
+http://163.172.5.94:8080/21635/86637/3678
+#EXTINF:-1 tvg-id="TSN1.ca"tvg-name="CA Sport: TSN 1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/tsn-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: TSN 1
+http://163.172.5.94:8080/21635/86637/3704
+#EXTINF:-1 tvg-id="TSN2.ca"tvg-name="CA Sport: TSN 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/tsn-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: TSN 2
+http://163.172.5.94:8080/21635/86637/3705
+#EXTINF:-1 tvg-id="TSN3.ca"tvg-name="CA Sport: TSN 3"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/tsn-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: TSN 3
+http://163.172.5.94:8080/21635/86637/3706
+#EXTINF:-1 tvg-id="TSN4.ca"tvg-name="CA Sport: TSN 4"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/tsn-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: TSN 4
+http://163.172.5.94:8080/21635/86637/3707
+#EXTINF:-1 tvg-id="TSN5.ca"tvg-name="CA Sport: TSN 5"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/tsn-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: TSN 5
+http://163.172.5.94:8080/21635/86637/3708
+#EXTINF:-1 tvg-id="SportsNet360.ca"tvg-name="CA Sport: SportsNet 360"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/sportsnet-sn360-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: SportsNet 360
+http://163.172.5.94:8080/21635/86637/3709
+#EXTINF:-1 tvg-id="SportsNetEast.ca"tvg-name="CA Sport: SportsNet East"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/sportsnet-east-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: SportsNet East
+http://163.172.5.94:8080/21635/86637/3710
+#EXTINF:-1 tvg-id="SportsNetOne.ca"tvg-name="CA Sport: SportsNet One"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/sportsnet-one-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: SportsNet One
+http://163.172.5.94:8080/21635/86637/3711
+#EXTINF:-1 tvg-id="SportsNetOntarioToronto.ca"tvg-name="CA Sport: SportsNet Ontario"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/sportsnet-ontario-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: SportsNet Ontario
+http://163.172.5.94:8080/21635/86637/3712
+#EXTINF:-1 tvg-id="SportsNetPacific.ca"tvg-name="CA Sport: SportsNet Pacific"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/sportsnet-pacific-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: SportsNet Pacific
+http://163.172.5.94:8080/21635/86637/3713
+#EXTINF:-1 tvg-id="SportsNetWorld.ca"tvg-name="CA Sport: Sportsnet World"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/canada/sportsnet-world-ca.png?raw=true"group-title="CANADIAN SPORTS ",list.alliptvlinks.com CA Sport: Sportsnet World
+http://163.172.5.94:8080/21635/86637/3714
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 01"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 01
+http://163.172.5.94:8080/21635/86637/3906
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 02"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 02
+http://163.172.5.94:8080/21635/86637/3907
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 03"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 03
+http://163.172.5.94:8080/21635/86637/3908
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 04"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 04
+http://163.172.5.94:8080/21635/86637/3909
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 05"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 05
+http://163.172.5.94:8080/21635/86637/3910
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 06"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 06
+http://163.172.5.94:8080/21635/86637/3911
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 07"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 07
+http://163.172.5.94:8080/21635/86637/3912
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 08"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 08
+http://163.172.5.94:8080/21635/86637/3913
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 09"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 09
+http://163.172.5.94:8080/21635/86637/3914
+#EXTINF:-1 tvg-id=""tvg-name="GaaGo: Event 10"tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png"group-title="GAA GO SPORT",list.alliptvlinks.com GaaGo: Event 10
+http://163.172.5.94:8080/21635/86637/3915
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us"tvg-name="Fubo: CBSN"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/cbsn-us.png?raw=true"group-title="USA TV",list.alliptvlinks.com Fubo: CBSN
+http://163.172.5.94:8080/21635/86637/3864
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 01"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 01
+http://163.172.5.94:8080/21635/86637/3987
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 02"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 02
+http://163.172.5.94:8080/21635/86637/3988
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 03"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 03
+http://163.172.5.94:8080/21635/86637/3989
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 04"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 04
+http://163.172.5.94:8080/21635/86637/3990
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 05"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 05
+http://163.172.5.94:8080/21635/86637/3991
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 06"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 06
+http://163.172.5.94:8080/21635/86637/3992
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 07"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 07
+http://163.172.5.94:8080/21635/86637/3993
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 08"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 08
+http://163.172.5.94:8080/21635/86637/3994
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 09"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 09
+http://163.172.5.94:8080/21635/86637/3995
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 10"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 10
+http://163.172.5.94:8080/21635/86637/3996
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 11"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 11
+http://163.172.5.94:8080/21635/86637/3997
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 12"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 12
+http://163.172.5.94:8080/21635/86637/3998
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 13"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 13
+http://163.172.5.94:8080/21635/86637/3999
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 14"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 14
+http://163.172.5.94:8080/21635/86637/4000
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 15"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 15
+http://163.172.5.94:8080/21635/86637/4001
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 16"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 16
+http://163.172.5.94:8080/21635/86637/4002
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 17"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 17
+http://163.172.5.94:8080/21635/86637/4003
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 18"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 18
+http://163.172.5.94:8080/21635/86637/4004
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 19"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 19
+http://163.172.5.94:8080/21635/86637/4005
+#EXTINF:-1 tvg-id=""tvg-name="MLB: Event 20"tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/MLB-Logo-640x400.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com MLB: Event 20
+http://163.172.5.94:8080/21635/86637/4006
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 01"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 01
+http://163.172.5.94:8080/21635/86637/4049
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 02"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 02
+http://163.172.5.94:8080/21635/86637/4050
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 03"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 03
+http://163.172.5.94:8080/21635/86637/4051
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 04"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 04
+http://163.172.5.94:8080/21635/86637/4052
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 05"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 05
+http://163.172.5.94:8080/21635/86637/4053
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 06"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 06
+http://163.172.5.94:8080/21635/86637/4054
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 07"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 07
+http://163.172.5.94:8080/21635/86637/4055
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 08"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 08
+http://163.172.5.94:8080/21635/86637/4056
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 09"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 09
+http://163.172.5.94:8080/21635/86637/4057
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 10"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 10
+http://163.172.5.94:8080/21635/86637/4058
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 11"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 11
+http://163.172.5.94:8080/21635/86637/4059
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 12"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 12
+http://163.172.5.94:8080/21635/86637/4060
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 13"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 13
+http://163.172.5.94:8080/21635/86637/4061
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 14"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 14
+http://163.172.5.94:8080/21635/86637/4062
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 15"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 15
+http://163.172.5.94:8080/21635/86637/4063
+#EXTINF:-1 tvg-id=""tvg-name="NFL: Event 16"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-icon-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NFL: Event 16
+http://163.172.5.94:8080/21635/86637/4064
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 4K"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 4K
+http://163.172.5.94:8080/21635/86637/4100
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 1"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 1
+http://163.172.5.94:8080/21635/86637/4101
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 2"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 2
+http://163.172.5.94:8080/21635/86637/4102
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 3"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 3
+http://163.172.5.94:8080/21635/86637/4103
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 4"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 4
+http://163.172.5.94:8080/21635/86637/4104
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 5"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 5
+http://163.172.5.94:8080/21635/86637/4105
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 6"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 6
+http://163.172.5.94:8080/21635/86637/4106
+#EXTINF:-1 tvg-id=""tvg-name="Now HK: Now Sports 7"tvg-logo="https://digitalreadymarketing.com/wp-content/uploads/2016/03/now-live-icon-300x278.png"group-title="EPL/i FOLLOW/UK CLUB CHANNELS ",list.alliptvlinks.com Now HK: Now Sports 7
+http://163.172.5.94:8080/21635/86637/4107
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Fox Footy"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/1683px-Fox_Footy_logo_%282015%29.svg.png"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Fox Footy
+http://163.172.5.94:8080/21635/86637/4108
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 01"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 01
+http://163.172.5.94:8080/21635/86637/4109
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 02"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 02
+http://163.172.5.94:8080/21635/86637/4110
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 03"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 03
+http://163.172.5.94:8080/21635/86637/4111
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 04"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 04
+http://163.172.5.94:8080/21635/86637/4112
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 05"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 05
+http://163.172.5.94:8080/21635/86637/4113
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 06"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 06
+http://163.172.5.94:8080/21635/86637/4114
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 07"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 07
+http://163.172.5.94:8080/21635/86637/4115
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 08"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 08
+http://163.172.5.94:8080/21635/86637/4116
+#EXTINF:-1 tvg-id=""tvg-name="NRL: Event 09"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/NRL_logo2018.svg/revision/latest/scale-to-width-down/512?cb=20190328051458"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NRL: Event 09
+http://163.172.5.94:8080/21635/86637/4117
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 01"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 01
+http://163.172.5.94:8080/21635/86637/4118
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 02"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 02
+http://163.172.5.94:8080/21635/86637/4119
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 03"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 03
+http://163.172.5.94:8080/21635/86637/4120
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 04"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 04
+http://163.172.5.94:8080/21635/86637/4121
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 05"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 05
+http://163.172.5.94:8080/21635/86637/4122
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 06"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 06
+http://163.172.5.94:8080/21635/86637/4123
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 07"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 07
+http://163.172.5.94:8080/21635/86637/4124
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 08"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 08
+http://163.172.5.94:8080/21635/86637/4125
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 09"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 09
+http://163.172.5.94:8080/21635/86637/4126
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 10"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 10
+http://163.172.5.94:8080/21635/86637/4127
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 11"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 11
+http://163.172.5.94:8080/21635/86637/4128
+#EXTINF:-1 tvg-id=""tvg-name="Optus: Event 12"tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo-300x300.png"group-title="OPTUS SPORT",list.alliptvlinks.com Optus: Event 12
+http://163.172.5.94:8080/21635/86637/4129
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 01"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 01
+http://163.172.5.94:8080/21635/86637/4148
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 02"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 02
+http://163.172.5.94:8080/21635/86637/4149
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 03"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 03
+http://163.172.5.94:8080/21635/86637/4150
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 04"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 04
+http://163.172.5.94:8080/21635/86637/4151
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 05"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 05
+http://163.172.5.94:8080/21635/86637/4152
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 06"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 06
+http://163.172.5.94:8080/21635/86637/4153
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 07"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 07
+http://163.172.5.94:8080/21635/86637/4154
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 08"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 08
+http://163.172.5.94:8080/21635/86637/4155
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 09"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 09
+http://163.172.5.94:8080/21635/86637/4156
+#EXTINF:-1 tvg-id=""tvg-name="Rush Sport: Event 10"tvg-logo="https://dash.mediaupdate.co.za/story/image/139926/139926_t.jpg?v=637547889747210584"group-title="RUSH SPORT/ FLOW SPORT",list.alliptvlinks.com Rush Sport: Event 10
+http://163.172.5.94:8080/21635/86637/4157
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 01"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 01
+http://163.172.5.94:8080/21635/86637/4207
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 02"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 02
+http://163.172.5.94:8080/21635/86637/4208
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 03"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 03
+http://163.172.5.94:8080/21635/86637/4209
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 04"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 04
+http://163.172.5.94:8080/21635/86637/4210
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 05"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 05
+http://163.172.5.94:8080/21635/86637/4211
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 06"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 06
+http://163.172.5.94:8080/21635/86637/4212
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 07"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 07
+http://163.172.5.94:8080/21635/86637/4213
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 08"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 08
+http://163.172.5.94:8080/21635/86637/4214
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 09"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 09
+http://163.172.5.94:8080/21635/86637/4215
+#EXTINF:-1 tvg-id=""tvg-name="SparkSport: Event 10"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.1wIwhITTBzmR9ABceHKmegAAAA&pid=Api&P=0&w=347&h=140"group-title="SPARK SPORT",list.alliptvlinks.com SparkSport: Event 10
+http://163.172.5.94:8080/21635/86637/4216
+#EXTINF:-1 tvg-id="I612.111871.schedulesdirect.org"tvg-name="US Sport: ACC Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/acc-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: ACC Network
+http://163.172.5.94:8080/21635/86637/4281
+#EXTINF:-1 tvg-id="ATTSportsNetSouthwestHouston.us"tvg-name="US Sport: AT&T SportsNet Southwest"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/at-and-t-sportsnet-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: AT&T SportsNet Southwest
+http://163.172.5.94:8080/21635/86637/4282
+#EXTINF:-1 tvg-id="I392.76950.schedulesdirect.org"tvg-name="beIN Sports: beIN Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: beIN Sports
+http://163.172.5.94:8080/21635/86637/4283
+#EXTINF:-1 tvg-id="92news.uk"tvg-name="bein Sports: beIN Sports 4"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png"group-title="BEIN SPORTS ",list.alliptvlinks.com bein Sports: beIN Sports 4
+http://163.172.5.94:8080/21635/86637/4284
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: beIN Sports 5"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: beIN Sports 5
+http://163.172.5.94:8080/21635/86637/4285
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: beIN Sports 6"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: beIN Sports 6
+http://163.172.5.94:8080/21635/86637/4286
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: beIN Sports 7"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: beIN Sports 7
+http://163.172.5.94:8080/21635/86637/4287
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: beIN Sports 8"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1200px-Bein_sport_logo.svg.png"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: beIN Sports 8
+http://163.172.5.94:8080/21635/86637/4288
+#EXTINF:-1 tvg-id=""tvg-name="beIN Sports: beIN Sports LaLiga"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png"group-title="BEIN SPORTS ",list.alliptvlinks.com beIN Sports: beIN Sports LaLiga
+http://163.172.5.94:8080/21635/86637/4289
+#EXTINF:-1 tvg-id=""tvg-name="beIn Sports: beIN Sports N"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1920px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png"group-title="BEIN SPORTS ",list.alliptvlinks.com beIn Sports: beIN Sports N
+http://163.172.5.94:8080/21635/86637/4290
+#EXTINF:-1 tvg-id="I610.56783.schedulesdirect.org"tvg-name="US Sport: Big 10 Network"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/666px-Big_Ten_Conference_logo.svg.png"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Big 10 Network
+http://163.172.5.94:8080/21635/86637/4291
+#EXTINF:-1 tvg-id="I221.16365.schedulesdirect.org"tvg-name="US Sport: CBS Sports"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/cbs-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: CBS Sports
+http://163.172.5.94:8080/21635/86637/4292
+#EXTINF:-1 tvg-id="ElevenSportsUSA.uk"tvg-name="US Sport: Eleven Sports"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ELEVEN_square-RGB-01-01-01-01.png/888px-ELEVEN_square-RGB-01-01-01-01.png"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Eleven Sports
+http://163.172.5.94:8080/21635/86637/4293
+#EXTINF:-1 tvg-id="I206.10179.schedulesdirect.org"tvg-name="US Sport: ESPN"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/espn-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: ESPN
+http://163.172.5.94:8080/21635/86637/4294
+#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org"tvg-name="US Sport: ESPN Deportes"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/espn-deportes-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: ESPN Deportes
+http://163.172.5.94:8080/21635/86637/4295
+#EXTINF:-1 tvg-id="I209.12444.schedulesdirect.org"tvg-name="US Sport: ESPN2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/espn-2-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: ESPN2
+http://163.172.5.94:8080/21635/86637/4296
+#EXTINF:-1 tvg-id="I207.16485.schedulesdirect.org"tvg-name="US Sport: ESPNews"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/espnews-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: ESPNews
+http://163.172.5.94:8080/21635/86637/4297
+#EXTINF:-1 tvg-id="I208.45654.schedulesdirect.org"tvg-name="US Sport: ESPNU"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/espn-u-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: ESPNU
+http://163.172.5.94:8080/21635/86637/4298
+#EXTINF:-1 tvg-id="I388.81448.schedulesdirect.org"tvg-name="US Sport: Fight Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fight-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Fight Network
+http://163.172.5.94:8080/21635/86637/4299
+#EXTINF:-1 tvg-id="GamePlus.ca"tvg-name="US Sport: FNTSY Sports Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fntsy-sports-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: FNTSY Sports Network
+http://163.172.5.94:8080/21635/86637/4300
+#EXTINF:-1 tvg-id="fox.sports.1.us"tvg-name="US Sport: Fox Sport 1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-1-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Fox Sport 1
+http://163.172.5.94:8080/21635/86637/4301
+#EXTINF:-1 tvg-id="fox.sports.2.us"tvg-name="US Sport: Fox Sport 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-2-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Fox Sport 2
+http://163.172.5.94:8080/21635/86637/4302
+#EXTINF:-1 tvg-id="fox.deportes.us"tvg-name="US Sport: Fox Sport Deportes"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-deportes-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Fox Sport Deportes
+http://163.172.5.94:8080/21635/86637/4303
+#EXTINF:-1 tvg-id="fox.soccer.plus.us"tvg-name="US Sport: Fox Soccer Plus"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-soccer-plus-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Fox Soccer Plus
+http://163.172.5.94:8080/21635/86637/4304
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us"tvg-name="US Sport: Fubo Sports Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fubo-sports-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Fubo Sports Network
+http://163.172.5.94:8080/21635/86637/4305
+#EXTINF:-1 tvg-id="I468.32161.schedulesdirect.org"tvg-name="US Sport: GolTV"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/gol-tv-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: GolTV
+http://163.172.5.94:8080/21635/86637/4306
+#EXTINF:-1 tvg-id="I677.72861.schedulesdirect.org"tvg-name="US Sport: Longhorn Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/longhorn-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Longhorn Network
+http://163.172.5.94:8080/21635/86637/4307
+#EXTINF:-1 tvg-id="I213.62079.schedulesdirect.org"tvg-name="US Sport: MLB Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/mlb-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: MLB Network
+http://163.172.5.94:8080/21635/86637/4308
+#EXTINF:-1 tvg-id="I281.31046.schedulesdirect.org"tvg-name="US Sport: MotorTrend"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/motor-trend-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: MotorTrend
+http://163.172.5.94:8080/21635/86637/4309
+#EXTINF:-1 tvg-id="I634.10979.schedulesdirect.org"tvg-name="US Sport: MSG"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/msg-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: MSG
+http://163.172.5.94:8080/21635/86637/4310
+#EXTINF:-1 tvg-id="I635.35383.schedulesdirect.org"tvg-name="US Sport: MSG+"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/msg-plus-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: MSG+
+http://163.172.5.94:8080/21635/86637/4311
+#EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org"tvg-name="US Sport: NBA Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nba-tv-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBA Network
+http://163.172.5.94:8080/21635/86637/4312
+#EXTINF:-1 tvg-id="GolfChannelUS.us"tvg-name="US Sport: NBC Golf"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbc-golf-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC Golf
+http://163.172.5.94:8080/21635/86637/4313
+#EXTINF:-1 tvg-id="I220.15952.schedulesdirect.org"tvg-name="US Sport: NBCSN"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBCSN
+http://163.172.5.94:8080/21635/86637/4314
+#EXTINF:-1 tvg-id="I696.63138.schedulesdirect.org"tvg-name="US Sport: NBC Bay Area"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbcsn-bay-area-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC Bay Area
+http://163.172.5.94:8080/21635/86637/4315
+#EXTINF:-1 tvg-id="I698.73564.schedulesdirect.org"tvg-name="US Sport: NBC California"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbcsn-california-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC California
+http://163.172.5.94:8080/21635/86637/4316
+#EXTINF:-1 tvg-id="I630.49198.schedulesdirect.org"tvg-name="US Sport: NBC Boston"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbcsn-boston-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC Boston
+http://163.172.5.94:8080/21635/86637/4317
+#EXTINF:-1 tvg-id="I665.44905.schedulesdirect.org"tvg-name="US Sport: NBC Chicago"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbcsn-chicago-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC Chicago
+http://163.172.5.94:8080/21635/86637/4318
+#EXTINF:-1 tvg-id="NBCSportsNorthWest.us"tvg-name="US Sport: NBC Northwest"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbcsn-northwest-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC Northwest
+http://163.172.5.94:8080/21635/86637/4319
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us"tvg-name="US Sport: NBC Philadelphia"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbcsn-philadelphia-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC Philadelphia
+http://163.172.5.94:8080/21635/86637/4320
+#EXTINF:-1 tvg-id="I642.32537.schedulesdirect.org"tvg-name="US Sport: NBC Washington"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nbcsn-washington-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NBC Washington
+http://163.172.5.94:8080/21635/86637/4321
+#EXTINF:-1 tvg-id="I212.34710.schedulesdirect.org"tvg-name="US Sport: NFL Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NFL Network
+http://163.172.5.94:8080/21635/86637/4322
+#EXTINF:-1 tvg-id="I703.65025.schedulesdirect.org"tvg-name="US Sport: NFL Redzone"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nfl-red-zone-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NFL Redzone
+http://163.172.5.94:8080/21635/86637/4323
+#EXTINF:-1 tvg-id="I215.58570.schedulesdirect.org"tvg-name="US Sport: NHL Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: NHL Network
+http://163.172.5.94:8080/21635/86637/4324
+#EXTINF:-1 tvg-id="I624.104186.schedulesdirect.org"tvg-name="US Sport: Olympic Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/olympic-channel-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Olympic Network
+http://163.172.5.94:8080/21635/86637/4325
+#EXTINF:-1 tvg-id="I606.14776.schedulesdirect.org"tvg-name="US Sport: Outdoor Channel"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/outdoor-channel-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Outdoor Channel
+http://163.172.5.94:8080/21635/86637/4326
+#EXTINF:-1 tvg-id="OutsideTV.us"tvg-name="US Sport: Outside TV"tvg-logo="https://localfreshies.com/wp-content/uploads/2015/08/outside_tv_us.png"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Outside TV
+http://163.172.5.94:8080/21635/86637/4327
+#EXTINF:-1 tvg-id="Pac12Arizona.us"tvg-name="US Sport: PAC 12 Arizona"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/pac-12-arizona-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: PAC 12 Arizona
+http://163.172.5.94:8080/21635/86637/4328
+#EXTINF:-1 tvg-id="Pac12BayArea.us"tvg-name="US Sport: PAC 12 Bay Area"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/pac-12-bay-area-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: PAC 12 Bay Area
+http://163.172.5.94:8080/21635/86637/4329
+#EXTINF:-1 tvg-id="Pac12LosAngeles.us"tvg-name="US Sport: PAC 12 Los Angeles"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/pac-12-los-angeles-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: PAC 12 Los Angeles
+http://163.172.5.94:8080/21635/86637/4330
+#EXTINF:-1 tvg-id="Pac12Mountain.us"tvg-name="US Sport: PAC 12 Mountain"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/pac-12-mountain-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: PAC 12 Mountain
+http://163.172.5.94:8080/21635/86637/4331
+#EXTINF:-1 tvg-id="Pac12Networks.us"tvg-name="US Sport: PAC 12 Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/pac-12-network-icon-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: PAC 12 Network
+http://163.172.5.94:8080/21635/86637/4332
+#EXTINF:-1 tvg-id="Pac12Oregon.us"tvg-name="US Sport: PAC 12 Oregon"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/pac-12-oregon-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: PAC 12 Oregon
+http://163.172.5.94:8080/21635/86637/4333
+#EXTINF:-1 tvg-id="Pac12Washington.us"tvg-name="US Sport: PAC 12 Washington"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/pac-12-washington-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: PAC 12 Washington
+http://163.172.5.94:8080/21635/86637/4334
+#EXTINF:-1 tvg-id="sec.network.us"tvg-name="US Sport: SEC Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/sec-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: SEC Network
+http://163.172.5.94:8080/21635/86637/4335
+#EXTINF:-1 tvg-id="sec.network.alternate.us"tvg-name="US Sport: SEC+ Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/sec-network-plus-hz-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: SEC+ Network
+http://163.172.5.94:8080/21635/86637/4336
+#EXTINF:-1 tvg-id="I605.33930.schedulesdirect.org"tvg-name="US Sport: Sportsmen Channel"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/sportsman-channel-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Sportsmen Channel
+http://163.172.5.94:8080/21635/86637/4337
+#EXTINF:-1 tvg-id="I639.49603.schedulesdirect.org"tvg-name="US Sport: SportsNet New York"tvg-logo="https://tse3.mm.bing.net/th?id=OIP.wop1X1ejKja5OqyK71H9sAHaDt&pid=Api&P=0&w=349&h=175"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: SportsNet New York
+http://163.172.5.94:8080/21635/86637/4338
+#EXTINF:-1 tvg-id="SpectrumSportsNetLA.us"tvg-name="US Sport: SportsNet Los Angeles"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/langfr-375px-Logo_Sportsnet_2011.svg.png"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: SportsNet Los Angeles
+http://163.172.5.94:8080/21635/86637/4339
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org"tvg-name="US Sport: Spectrum SportsNet"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/spectrum-sportsnet-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Spectrum SportsNet
+http://163.172.5.94:8080/21635/86637/4340
+#EXTINF:-1 tvg-id="Stadium.us"tvg-name="US Sport: Stadium"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/stadium-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Stadium
+http://163.172.5.94:8080/21635/86637/4341
+#EXTINF:-1 tvg-id="Stadium.us"tvg-name="US Sport: Stadium 1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/stadium-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Stadium 1
+http://163.172.5.94:8080/21635/86637/4342
+#EXTINF:-1 tvg-id="Stadium.us"tvg-name="US Sport: Stadium 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/stadium-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Stadium 2
+http://163.172.5.94:8080/21635/86637/4343
+#EXTINF:-1 tvg-id="Stadium.us"tvg-name="US Sport: Stadium 3"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/stadium-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Stadium 3
+http://163.172.5.94:8080/21635/86637/4344
+#EXTINF:-1 tvg-id="TBSEast.us"tvg-name="US Sport: TBS"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: TBS
+http://163.172.5.94:8080/21635/86637/4345
+#EXTINF:-1 tvg-id="TNTEast.us"tvg-name="US Sport: ,list.alliptvlinks.com Channel_942 "tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tnt-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: ,list.alliptvlinks.com Channel_942
+http://163.172.5.94:8080/21635/86637/4346
+#EXTINF:-1 tvg-id="I217.33395.schedulesdirect.org"tvg-name="US Sport: Tennis Channel"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tennis-channel-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Tennis Channel
+http://163.172.5.94:8080/21635/86637/4347
+#EXTINF:-1 tvg-id="I602.21345.schedulesdirect.org"tvg-name="US Sport: TVG Racing Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tvg-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: TVG Racing Network
+http://163.172.5.94:8080/21635/86637/4348
+#EXTINF:-1 tvg-id="I602.21345.schedulesdirect.org"tvg-name="US Sport: TVG Racing Network 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tvg-2-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: TVG Racing Network 2
+http://163.172.5.94:8080/21635/86637/4349
+#EXTINF:-1 tvg-id="willow.cricket.us"tvg-name="US Sport: Willow Cricket"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/willow-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Willow Cricket
+http://163.172.5.94:8080/21635/86637/4350
+#EXTINF:-1 tvg-id="Willow.us"tvg-name="US Sport: Willow Cricket Xtra"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/willow-xtra-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Willow Cricket Xtra
+http://163.172.5.94:8080/21635/86637/4351
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us"tvg-name="US Sport: World Fishing Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/world-fishing-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: World Fishing Network
+http://163.172.5.94:8080/21635/86637/4352
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org"tvg-name="US Sport: WWE Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/wwe-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: WWE Network
+http://163.172.5.94:8080/21635/86637/4353
+#EXTINF:-1 tvg-id="I631.30017.schedulesdirect.org"tvg-name="US Sport: YES Network"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/yes-network-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: YES Network
+http://163.172.5.94:8080/21635/86637/4354
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org"tvg-name="US Sport: Zona Futbol"tvg-logo="https://golatinotv.com/wp-content/uploads/2018/05/DISH-Latino-Lleva-El-Juego-Contigo-En-DISH-Anywhere.png"group-title="USA SPORTS ",list.alliptvlinks.com US Sport: Zona Futbol
+http://163.172.5.94:8080/21635/86637/4355
+#EXTINF:-1 tvg-id="fox.sports.arizona.us"tvg-name="Fox Sport: Arizona"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Arizona
+http://163.172.5.94:8080/21635/86637/3837
+#EXTINF:-1 tvg-id="fox.sports.south.carolinas.us"tvg-name="Fox Sport: Carolinas"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Carolinas
+http://163.172.5.94:8080/21635/86637/3838
+#EXTINF:-1 tvg-id="fox.sports.detroit.us"tvg-name="Fox Sport: Detroit"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Detroit
+http://163.172.5.94:8080/21635/86637/3839
+#EXTINF:-1 tvg-id="fox.sports.florida.us"tvg-name="Fox Sport: Florida"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Florida
+http://163.172.5.94:8080/21635/86637/3840
+#EXTINF:-1 tvg-id="fox.sports.midwest.us"tvg-name="Fox Sport: Midwest"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Midwest
+http://163.172.5.94:8080/21635/86637/3841
+#EXTINF:-1 tvg-id="fox.sports.north.us"tvg-name="Fox Sport: North"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: North
+http://163.172.5.94:8080/21635/86637/3842
+#EXTINF:-1 tvg-id="fox.sports.ohio.us"tvg-name="Fox Sport: Ohio"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Ohio
+http://163.172.5.94:8080/21635/86637/3843
+#EXTINF:-1 tvg-id="fox.sports.oklahoma.us"tvg-name="Fox Sport: Oklahoma"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Oklahoma
+http://163.172.5.94:8080/21635/86637/3844
+#EXTINF:-1 tvg-id="fox.sports.west.prime.ticket.us"tvg-name="Fox Sport: Prime Ticket"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Prime Ticket
+http://163.172.5.94:8080/21635/86637/3845
+#EXTINF:-1 tvg-id="fox.sports.san.diego.us"tvg-name="Fox Sport: San Diego"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: San Diego
+http://163.172.5.94:8080/21635/86637/3846
+#EXTINF:-1 tvg-id="fox.sports.south.us"tvg-name="Fox Sport: South"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: South
+http://163.172.5.94:8080/21635/86637/3847
+#EXTINF:-1 tvg-id="fox.sports.southeast.us"tvg-name="Fox Sport: SouthEast"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: SouthEast
+http://163.172.5.94:8080/21635/86637/3848
+#EXTINF:-1 tvg-id="fox.sports.southwest.us"tvg-name="Fox Sport: SouthWest"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: SouthWest
+http://163.172.5.94:8080/21635/86637/3849
+#EXTINF:-1 tvg-id="fox.sports.sun.us"tvg-name="Fox Sport: Sun"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Sun
+http://163.172.5.94:8080/21635/86637/3850
+#EXTINF:-1 tvg-id="fox.sports.southeast.tennessee.us"tvg-name="Fox Sport: Tennessee"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Tennessee
+http://163.172.5.94:8080/21635/86637/3851
+#EXTINF:-1 tvg-id="fox.sports.west.us"tvg-name="Fox Sport: West"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: West
+http://163.172.5.94:8080/21635/86637/3852
+#EXTINF:-1 tvg-id="fox.sports.wisconsin.us"tvg-name="Fox Sport: Wisconsin"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/fox-sports-us.png?raw=true"group-title="USA SPORTS ",list.alliptvlinks.com Fox Sport: Wisconsin
+http://163.172.5.94:8080/21635/86637/3853
+#EXTINF:-1 tvg-id=""tvg-name="Willow: Event 01"tvg-logo="http://photos.prnewswire.com/prnfull/20160229/338826LOGO?max=800"group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com Willow: Event 01
+http://163.172.5.94:8080/21635/86637/4361
+#EXTINF:-1 tvg-id=""tvg-name="Willow: Event 02"tvg-logo="http://photos.prnewswire.com/prnfull/20160229/338826LOGO?max=800"group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com Willow: Event 02
+http://163.172.5.94:8080/21635/86637/4362
+#EXTINF:-1 tvg-id=""tvg-name="Willow: Event 03"tvg-logo="http://photos.prnewswire.com/prnfull/20160229/338826LOGO?max=800"group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com Willow: Event 03
+http://163.172.5.94:8080/21635/86637/4363
+#EXTINF:-1 tvg-id=""tvg-name="Willow: Event 04"tvg-logo="http://photos.prnewswire.com/prnfull/20160229/338826LOGO?max=800"group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com Willow: Event 04
+http://163.172.5.94:8080/21635/86637/4364
+#EXTINF:-1 tvg-id=""tvg-name="Willow: Event 05"tvg-logo="http://photos.prnewswire.com/prnfull/20160229/338826LOGO?max=800"group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com Willow: Event 05
+http://163.172.5.94:8080/21635/86637/4365
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us"tvg-name="Chicago: CBS WBBM"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/330px-CBS_logo_%282020%29.svg.png"group-title="USA TV",list.alliptvlinks.com Chicago: CBS WBBM
+http://163.172.5.94:8080/21635/86637/4376
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 01"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 01
+http://163.172.5.94:8080/21635/86637/4065
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 02"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 02
+http://163.172.5.94:8080/21635/86637/4066
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 03"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 03
+http://163.172.5.94:8080/21635/86637/4067
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 04"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 04
+http://163.172.5.94:8080/21635/86637/4068
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 05"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 05
+http://163.172.5.94:8080/21635/86637/4069
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 06"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 06
+http://163.172.5.94:8080/21635/86637/4070
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 07"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 07
+http://163.172.5.94:8080/21635/86637/4071
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 08"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 08
+http://163.172.5.94:8080/21635/86637/4072
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 09"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 09
+http://163.172.5.94:8080/21635/86637/4073
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 10"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 10
+http://163.172.5.94:8080/21635/86637/4074
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 11"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 11
+http://163.172.5.94:8080/21635/86637/4075
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 12"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 12
+http://163.172.5.94:8080/21635/86637/4076
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 13"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 13
+http://163.172.5.94:8080/21635/86637/4077
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 14"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 14
+http://163.172.5.94:8080/21635/86637/4078
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 15"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 15
+http://163.172.5.94:8080/21635/86637/4079
+#EXTINF:-1 tvg-id=""tvg-name="NHL: Event 16"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/nhl-network-us.png?raw=true"group-title="USA SPORT EVENTS ",list.alliptvlinks.com NHL: Event 16
+http://163.172.5.94:8080/21635/86637/4080
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org"tvg-name="PT: Eleven Sport 1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/eleven-sports-1-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eleven Sport 1
+http://163.172.5.94:8080/21635/86637/4508
+#EXTINF:-1 tvg-id=""tvg-name="PT: Eleven Sport 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/eleven-sports-2-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eleven Sport 2
+http://163.172.5.94:8080/21635/86637/4509
+#EXTINF:-1 tvg-id=""tvg-name="PT: Eleven Sport 3"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/eleven-sports-3-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eleven Sport 3
+http://163.172.5.94:8080/21635/86637/4510
+#EXTINF:-1 tvg-id=""tvg-name="PT: Eleven Sport 4"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/eleven-sports-4-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eleven Sport 4
+http://163.172.5.94:8080/21635/86637/4511
+#EXTINF:-1 tvg-id=""tvg-name="PT: Eleven Sport 5"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/eleven-sports-5-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eleven Sport 5
+http://163.172.5.94:8080/21635/86637/4512
+#EXTINF:-1 tvg-id=""tvg-name="PT: Eleven Sport 6"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/eleven-sports-6-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eleven Sport 6
+http://163.172.5.94:8080/21635/86637/4513
+#EXTINF:-1 tvg-id="EuronewsPortugues.fr"tvg-name="PT: Euronews"tvg-logo="https://tse1.mm.bing.net/th?id=OIP.i3H9bsd06nCJko_0yncqIgHaDx&pid=Api&P=0&w=344&h=176"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Euronews
+http://163.172.5.94:8080/21635/86637/4514
+#EXTINF:-1 tvg-id="Eurosport1.fr"tvg-name="PT: Eurosport 1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/eurosport-1-uk.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eurosport 1
+http://163.172.5.94:8080/21635/86637/4515
+#EXTINF:-1 tvg-id="Eurosport2.fr"tvg-name="PT: Eurosport 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/eurosport-2-uk.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Eurosport 2
+http://163.172.5.94:8080/21635/86637/4516
+#EXTINF:-1 tvg-id="FoxMoviesPortugal.us"tvg-name="PT: FOX Movies"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/fox-movies-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: FOX Movies
+http://163.172.5.94:8080/21635/86637/4521
+#EXTINF:-1 tvg-id="SportTVPlus.pt"tvg-name="PT: SPORT TV +"tvg-logo="https://tse4.mm.bing.net/th?id=OIP.ZG1kZjmyBE7lxMo35FGJbQHaCl&pid=Api&P=0&w=533&h=187"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: SPORT TV +
+http://163.172.5.94:8080/21635/86637/4556
+#EXTINF:-1 tvg-id="SportTV2.pt"tvg-name="PT: SPORT TV 1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/sport-tv-1-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: SPORT TV 1
+http://163.172.5.94:8080/21635/86637/4557
+#EXTINF:-1 tvg-id="SportTV2.pt"tvg-name="PT: SPORT TV 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/sport-tv-2-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: SPORT TV 2
+http://163.172.5.94:8080/21635/86637/4558
+#EXTINF:-1 tvg-id="SportTV3.pt"tvg-name="PT: SPORT TV 3"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/sport-tv-3-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: SPORT TV 3
+http://163.172.5.94:8080/21635/86637/4559
+#EXTINF:-1 tvg-id="SportTV3.pt"tvg-name="PT: SPORT TV 3"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/sport-tv-3-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: SPORT TV 3
+http://163.172.5.94:8080/21635/86637/4560
+#EXTINF:-1 tvg-id="SportTV4.pt"tvg-name="PT: SPORT TV 4"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/sport-tv-4-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: SPORT TV 4
+http://163.172.5.94:8080/21635/86637/4561
+#EXTINF:-1 tvg-id="SportTV5.pt"tvg-name="PT: SPORT TV 5"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/sport-tv-5-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: SPORT TV 5
+http://163.172.5.94:8080/21635/86637/4562
+#EXTINF:-1 tvg-id="SportingTV.pt"tvg-name="PT: Sporting TV"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/portugal/sporting-tv-pt.png?raw=true"group-title="PORTUGUESE TV",list.alliptvlinks.com PT: Sporting TV
+http://163.172.5.94:8080/21635/86637/4563
+#EXTINF:-1 tvg-id="Eurosport1Espana.fr"tvg-name="ES: EUROSPORT 1"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/eurosport-1-uk.png?raw=true"group-title="SPANISH TV",list.alliptvlinks.com ES: EUROSPORT 1
+http://163.172.5.94:8080/21635/86637/4645
+#EXTINF:-1 tvg-id="Eurosport1Espana.fr"tvg-name="ES: EUROSPORT 1 HD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/eurosport-1-uk.png?raw=true"group-title="SPANISH TV",list.alliptvlinks.com ES: EUROSPORT 1 HD
+http://163.172.5.94:8080/21635/86637/4646
+#EXTINF:-1 tvg-id="Eurosport2Espana.fr"tvg-name="ES: EUROSPORT 2"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/eurosport-2-uk.png?raw=true"group-title="SPANISH TV",list.alliptvlinks.com ES: EUROSPORT 2
+http://163.172.5.94:8080/21635/86637/4647
+#EXTINF:-1 tvg-id="extreme.sports.nl"tvg-name="NL - Extreme Sports Channel"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/extreme-sports-channel-nl.png?raw=true"group-title="DUTCH TV",list.alliptvlinks.com NL - Extreme Sports Channel
+http://163.172.5.94:8080/21635/86637/4763
+#EXTINF:-1 tvg-id="ziggo.sport.golf.nl"tvg-name="NL - Ziggo Sport Golf"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/ziggo-sport-golf-nl.png?raw=true"group-title="DUTCH TV",list.alliptvlinks.com NL - Ziggo Sport Golf
+http://163.172.5.94:8080/21635/86637/4800
+#EXTINF:-1 tvg-id="ziggo.sport.select.nl"tvg-name="NL - Ziggo Sport Select HD"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/ziggo-sport-select-nl.png?raw=true"group-title="DUTCH TV",list.alliptvlinks.com NL - Ziggo Sport Select HD
+http://163.172.5.94:8080/21635/86637/4801
+#EXTINF:-1 tvg-id="ziggo.sport.voetbal.nl"tvg-name="NL - Ziggo Sport Voetbal"tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/netherlands/ziggo-sport-voetbal-nl.png?raw=true"group-title="DUTCH TV",list.alliptvlinks.com NL - Ziggo Sport Voetbal
+http://163.172.5.94:8080/21635/86637/4802
+#EXTINF:-1 tvg-id="CT4Sport.cz"tvg-name="CZ: CT sport HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ceska_televize_sport.png"group-title="CZECH TV",list.alliptvlinks.com CZ: CT sport HD
+http://163.172.5.94:8080/21635/86637/4843
+#EXTINF:-1 tvg-id="NovaSport1.cz"tvg-name="CZ: Nova Sport 1 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nova_cz_sport_1.png"group-title="CZECH TV",list.alliptvlinks.com CZ: Nova Sport 1 HD
+http://163.172.5.94:8080/21635/86637/4874
+#EXTINF:-1 tvg-id="NovaSport2.cz"tvg-name="CZ: Nova Sport 2 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nova_cz_sport_2.png"group-title="CZECH TV",list.alliptvlinks.com CZ: Nova Sport 2 HD
+http://163.172.5.94:8080/21635/86637/4875
+#EXTINF:-1 tvg-id="Sport1Czechia.hu"tvg-name="CZ: Sport 1 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport-1-czechia-cz.png"group-title="CZECH TV",list.alliptvlinks.com CZ: Sport 1 HD
+http://163.172.5.94:8080/21635/86637/4893
+#EXTINF:-1 tvg-id="Sport2Czechia.hu"tvg-name="CZ: Sport 2 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport-2-czechia-cz.png"group-title="CZECH TV",list.alliptvlinks.com CZ: Sport 2 HD
+http://163.172.5.94:8080/21635/86637/4894
+#EXTINF:-1 tvg-id="Sport5.cz"tvg-name="CZ: Sport 5"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport5_cz.png"group-title="CZECH TV",list.alliptvlinks.com CZ: Sport 5
+http://163.172.5.94:8080/21635/86637/4895
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 05: Hampshire vs Somerset - LV= Insurance County Championship Live Stream | Thu 6th 8:39AM"tvg-logo="https://resources.ecb.co.uk/photo-resources/2021/05/05/ac0c50c2-dedf-4b9c-b538-4a81f5d8a24d/Hampshire-6th-May.jpeg?width=1200&height=450"group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 05: Hampshire vs Somerset - LV= Insurance County Championship Live Stream | Thu 6th 8:39AM
+http://163.172.5.94:8080/21635/86637/4906
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 09: Yorkshire vs Kent - LV= Insurance County Championship Live Stream | Thu 6th 9:37AM"tvg-logo="https://resources.ecb.co.uk/photo-resources/2021/05/05/a4d5a7d6-5d7a-4dca-a376-c4cb2da19835/Yorkshire-6th-May.jpeg?width=1200&height=450"group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 09: Yorkshire vs Kent - LV= Insurance County Championship Live Stream | Thu 6th 9:37AM
+http://163.172.5.94:8080/21635/86637/4910
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 10:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 10:
+http://163.172.5.94:8080/21635/86637/4911
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 11:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 11:
+http://163.172.5.94:8080/21635/86637/4912
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 12:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 12:
+http://163.172.5.94:8080/21635/86637/4913
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 13:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 13:
+http://163.172.5.94:8080/21635/86637/4914
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 14:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 14:
+http://163.172.5.94:8080/21635/86637/4915
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 15:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 15:
+http://163.172.5.94:8080/21635/86637/4916
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 16:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 16:
+http://163.172.5.94:8080/21635/86637/4917
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 17:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 17:
+http://163.172.5.94:8080/21635/86637/4918
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 18:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 18:
+http://163.172.5.94:8080/21635/86637/4919
+#EXTINF:-1 tvg-id=""tvg-name="ECB Fixtures 19:"tvg-logo=""group-title="WILLOW SPORT/ CRICKET ",list.alliptvlinks.com ECB Fixtures 19:
+http://163.172.5.94:8080/21635/86637/4920
+#EXTINF:-1 tvg-id="CanalPlusSport4Polska.pl"tvg-name="PL: CANAL+ SPORT 4 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-4-polska-pl.png"group-title="POLISH TV",list.alliptvlinks.com PL: CANAL+ SPORT 4 FHD
+http://163.172.5.94:8080/21635/86637/5023
+#EXTINF:-1 tvg-id="CanalPlusSport3Polska.pl"tvg-name="PL: CANAL+ SPORT 3 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-3-polska-pl.png"group-title="POLISH TV",list.alliptvlinks.com PL: CANAL+ SPORT 3 FHD
+http://163.172.5.94:8080/21635/86637/5024
+#EXTINF:-1 tvg-id="CanalPlusSportPolska.pl"tvg-name="PL: CANAL+ SPORT 1 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_pl_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: CANAL+ SPORT 1 FHD
+http://163.172.5.94:8080/21635/86637/5050
+#EXTINF:-1 tvg-id="CanalPlusSport2Polska.pl"tvg-name="PL: CANAL+ SPORT 2 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_pl_sport2.png"group-title="POLISH TV",list.alliptvlinks.com PL: CANAL+ SPORT 2 FHD
+http://163.172.5.94:8080/21635/86637/5051
+#EXTINF:-1 tvg-id="ElevenSports1Polska.uk"tvg-name="PL: Eleven Sports 1 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eleven Sports 1 FHD
+http://163.172.5.94:8080/21635/86637/5071
+#EXTINF:-1 tvg-id="ElevenSports1Polska.uk"tvg-name="PL: Eleven Sports 1 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eleven Sports 1 HD
+http://163.172.5.94:8080/21635/86637/5072
+#EXTINF:-1 tvg-id="ElevenSports2Polska.uk"tvg-name="PL: Eleven Sports 2 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eleven Sports 2 FHD
+http://163.172.5.94:8080/21635/86637/5073
+#EXTINF:-1 tvg-id="ElevenSports3Polska.uk"tvg-name="PL: Eleven Sports 3 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eleven Sports 3 FHD
+http://163.172.5.94:8080/21635/86637/5074
+#EXTINF:-1 tvg-id="ElevenSports3Polska.uk"tvg-name="PL: Eleven Sports 3 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eleven Sports 3 HD
+http://163.172.5.94:8080/21635/86637/5075
+#EXTINF:-1 tvg-id="ElevenSports4Polska.uk"tvg-name="PL: ELEVEN SPORTS 4 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png"group-title="POLISH TV",list.alliptvlinks.com PL: ELEVEN SPORTS 4 FHD
+http://163.172.5.94:8080/21635/86637/5076
+#EXTINF:-1 tvg-id="ElevenSports4Polska.uk"tvg-name="PL: ELEVEN SPORTS 4 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png"group-title="POLISH TV",list.alliptvlinks.com PL: ELEVEN SPORTS 4 HD
+http://163.172.5.94:8080/21635/86637/5077
+#EXTINF:-1 tvg-id="Eurosport1Polska.fr"tvg-name="PL: Eurosport 1 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eurosport 1 FHD
+http://163.172.5.94:8080/21635/86637/5082
+#EXTINF:-1 tvg-id="Eurosport1Polska.fr"tvg-name="PL: Eurosport 1 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eurosport 1 HD
+http://163.172.5.94:8080/21635/86637/5083
+#EXTINF:-1 tvg-id="Eurosport1Polska.fr"tvg-name="PL: Eurosport 2 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eurosport 2 FHD
+http://163.172.5.94:8080/21635/86637/5084
+#EXTINF:-1 tvg-id="Eurosport2Polska.fr"tvg-name="PL: Eurosport 2 HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png"group-title="POLISH TV",list.alliptvlinks.com PL: Eurosport 2 HD
+http://163.172.5.94:8080/21635/86637/5085
+#EXTINF:-1 tvg-id="ExtremeSportsChannelPolska.nl"tvg-name="PL: Extreme Sports FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.png"group-title="POLISH TV",list.alliptvlinks.com PL: Extreme Sports FHD
+http://163.172.5.94:8080/21635/86637/5086
+#EXTINF:-1 tvg-id="ExtremeSportsChannelPolska.nl"tvg-name="PL: Extreme Sports HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/extreme_sports_nl.png"group-title="POLISH TV",list.alliptvlinks.com PL: Extreme Sports HD
+http://163.172.5.94:8080/21635/86637/5087
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl"tvg-name="PL: Polsat Sport Extra FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport_extra.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Extra FHD
+http://163.172.5.94:8080/21635/86637/5146
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl"tvg-name="PL: Polsat Sport Extra HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport_extra.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Extra HD
+http://163.172.5.94:8080/21635/86637/5147
+#EXTINF:-1 tvg-id="PolsatSportFight.pl"tvg-name="PL: Polsat Sport Fight FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Fight FHD
+http://163.172.5.94:8080/21635/86637/5148
+#EXTINF:-1 tvg-id="PolsatSportFight.pl"tvg-name="PL: Polsat Sport Fight HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Fight HD
+http://163.172.5.94:8080/21635/86637/5149
+#EXTINF:-1 tvg-id="PolsatSport.pl"tvg-name="PL: Polsat Sport FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport FHD
+http://163.172.5.94:8080/21635/86637/5150
+#EXTINF:-1 tvg-id="PolsatSport.pl"tvg-name="PL: Polsat Sport HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport HD
+http://163.172.5.94:8080/21635/86637/5151
+#EXTINF:-1 tvg-id="PolsatNews.pl"tvg-name="PL: Polsat Sport News FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport_news.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport News FHD
+http://163.172.5.94:8080/21635/86637/5152
+#EXTINF:-1 tvg-id="PolsatSportNews.pl"tvg-name="PL: Polsat Sport News HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport_news.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport News HD
+http://163.172.5.94:8080/21635/86637/5153
+#EXTINF:-1 tvg-id="SportKlubPolska.hu"tvg-name="PL: Sportklub FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_klub_pl.png"group-title="POLISH TV",list.alliptvlinks.com PL: Sportklub FHD
+http://163.172.5.94:8080/21635/86637/5162
+#EXTINF:-1 tvg-id="TVPSport.pl"tvg-name="PL: TVP Sport FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvp_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: TVP Sport FHD
+http://163.172.5.94:8080/21635/86637/5192
+#EXTINF:-1 tvg-id="TVPSport.pl"tvg-name="PL: TVP Sport HD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvp_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: TVP Sport HD
+http://163.172.5.94:8080/21635/86637/5193
+#EXTINF:-1 tvg-id="nSportPlus.pl"tvg-name="PL: nSport+"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_pl_n_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: nSport+
+http://163.172.5.94:8080/21635/86637/5206
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl"tvg-name="PL: Polsat Sport Premium 1 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Premium 1 FHD
+http://163.172.5.94:8080/21635/86637/5208
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl"tvg-name="PL: Polsat Sport Premium 2 FHD"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Premium 2 FHD
+http://163.172.5.94:8080/21635/86637/5209
+#EXTINF:-1 tvg-id="PolsatSportPremium3.pl"tvg-name="PL: Polsat Sport Premium PPV 3"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Premium PPV 3
+http://163.172.5.94:8080/21635/86637/5210
+#EXTINF:-1 tvg-id="PolsatSportPremium4.pl"tvg-name="PL: Polsat Sport Premium PPV 4"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Premium PPV 4
+http://163.172.5.94:8080/21635/86637/5211
+#EXTINF:-1 tvg-id="PolsatSportPremium5.pl"tvg-name="PL: Polsat Sport Premium PPV 5"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Premium PPV 5
+http://163.172.5.94:8080/21635/86637/5212
+#EXTINF:-1 tvg-id="PolsatSportPremium6.pl"tvg-name="PL: Polsat Sport Premium PPV 6"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/polsat_sport.png"group-title="POLISH TV",list.alliptvlinks.com PL: Polsat Sport Premium PPV 6
+http://163.172.5.94:8080/21635/86637/5213
+#EXTINF:-1 tvg-id="ginx.esports.za"tvg-name="ZA: Ginx eSports"tvg-logo="http://myportal.live:8080/images/1d0d79ea6dfda029662ad4fe3f8655d9.png"group-title="SOUTH AFRICAN TV",list.alliptvlinks.com ZA: Ginx eSports
+http://163.172.5.94:8080/21635/86637/5306
+#EXTINF:-1 tvg-id="ss.action.za"tvg-name="SuperSport: Action"tvg-logo="http://myportal.live:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Action
+http://163.172.5.94:8080/21635/86637/4217
+#EXTINF:-1 tvg-id="ss.action.za"tvg-name="SuperSport: Action FHD"tvg-logo="http://myportal.live:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Action FHD
+http://163.172.5.94:8080/21635/86637/5252
+#EXTINF:-1 tvg-id="ss.blitz.za"tvg-name="SuperSport: Blitz"tvg-logo="http://myportal.live:8080/images/a9aa9d78e625109ce72fb5d020d5f36e.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Blitz
+http://163.172.5.94:8080/21635/86637/4218
+#EXTINF:-1 tvg-id="ss.blitz.za"tvg-name="SuperSport: Blitz FHD"tvg-logo="http://myportal.live:8080/images/a9aa9d78e625109ce72fb5d020d5f36e.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Blitz FHD
+http://163.172.5.94:8080/21635/86637/5251
+#EXTINF:-1 tvg-id="ss.cricket.za"tvg-name="SuperSport: Cricket"tvg-logo="http://myportal.live:8080/images/e2182f27c94adc78e9deecc1da385a34.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Cricket
+http://163.172.5.94:8080/21635/86637/4219
+#EXTINF:-1 tvg-id="ss.cricket.za"tvg-name="SuperSport: Cricket FHD"tvg-logo="http://myportal.live:8080/images/e2182f27c94adc78e9deecc1da385a34.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Cricket FHD
+http://163.172.5.94:8080/21635/86637/5250
+#EXTINF:-1 tvg-id="ss.football.za"tvg-name="SuperSport: Football"tvg-logo="http://myportal.live:8080/images/305c9bef1a6761c0360a0f8511250019.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Football
+http://163.172.5.94:8080/21635/86637/4222
+#EXTINF:-1 tvg-id="ss.football.za"tvg-name="SuperSport: Football FHD"tvg-logo="http://myportal.live:8080/images/305c9bef1a6761c0360a0f8511250019.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Football FHD
+http://163.172.5.94:8080/21635/86637/5249
+#EXTINF:-1 tvg-id="ss.golf.za"tvg-name="SuperSport: Golf"tvg-logo="http://myportal.live:8080/images/80a2c666372b20c354d993c34c47dd7d.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Golf
+http://163.172.5.94:8080/21635/86637/4223
+#EXTINF:-1 tvg-id="ss.golf.za"tvg-name="SuperSport: Golf FHD"tvg-logo="http://myportal.live:8080/images/80a2c666372b20c354d993c34c47dd7d.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Golf FHD
+http://163.172.5.94:8080/21635/86637/5248
+#EXTINF:-1 tvg-id="ss.grandstand.za"tvg-name="SuperSport: Grandstand"tvg-logo="http://myportal.live:8080/images/755c11e468ee6ceea9c75cefc57795f0.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Grandstand
+http://163.172.5.94:8080/21635/86637/4224
+#EXTINF:-1 tvg-id="ss.grandstand.za"tvg-name="SuperSport: Grandstand FHD"tvg-logo="http://myportal.live:8080/images/755c11e468ee6ceea9c75cefc57795f0.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Grandstand FHD
+http://163.172.5.94:8080/21635/86637/5247
+#EXTINF:-1 tvg-id="ss.la.liga.za"tvg-name="SuperSport: La Liga"tvg-logo="http://myportal.live:8080/images/e996ff53b8a7a389d89815aa51910b01.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: La Liga
+http://163.172.5.94:8080/21635/86637/4225
+#EXTINF:-1 tvg-id="ss.la.liga.za"tvg-name="SuperSport: LaLiga FHD"tvg-logo="http://myportal.live:8080/images/e996ff53b8a7a389d89815aa51910b01.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: LaLiga FHD
+http://163.172.5.94:8080/21635/86637/5246
+#EXTINF:-1 tvg-id="ss.maximo.1.za"tvg-name="SuperSport: Maximo"tvg-logo="http://myportal.live:8080/images/550273e6768807104303c6177069602e.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Maximo
+http://163.172.5.94:8080/21635/86637/4226
+#EXTINF:-1 tvg-id="ss.maximo.1.za"tvg-name="SuperSport: Maximo HD"tvg-logo="http://myportal.live:8080/images/550273e6768807104303c6177069602e.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Maximo HD
+http://163.172.5.94:8080/21635/86637/5245
+#EXTINF:-1 tvg-id="ss.motorsport.za"tvg-name="SuperSport: Motorsport"tvg-logo="http://myportal.live:8080/images/87abec0aaae3a904a805fe6e815758b0.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Motorsport
+http://163.172.5.94:8080/21635/86637/4227
+#EXTINF:-1 tvg-id="ss.motorsport.za"tvg-name="SuperSport: MotorSport HD"tvg-logo="http://myportal.live:8080/images/87abec0aaae3a904a805fe6e815758b0.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: MotorSport HD
+http://163.172.5.94:8080/21635/86637/5244
+#EXTINF:-1 tvg-id="ss.psl.za"tvg-name="SuperSport: ,list.alliptvlinks.com Channel_1763 "tvg-logo="http://myportal.live:8080/images/7d0e54451f97e86ee9f4837712406310.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: ,list.alliptvlinks.com Channel_1763
+http://163.172.5.94:8080/21635/86637/4228
+#EXTINF:-1 tvg-id="ss.psl.za"tvg-name="SuperSport: PSL FHD"tvg-logo="http://myportal.live:8080/images/7d0e54451f97e86ee9f4837712406310.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: PSL FHD
+http://163.172.5.94:8080/21635/86637/5241
+#EXTINF:-1 tvg-id="supersport.play.za"tvg-name="SuperSport: Play"tvg-logo="http://myportal.live:8080/images/52aba001e3afa48d622aadcf056341b4.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Play
+http://163.172.5.94:8080/21635/86637/4229
+#EXTINF:-1 tvg-id="supersport.play.za"tvg-name="SuperSport: Play HD"tvg-logo="http://myportal.live:8080/images/52aba001e3afa48d622aadcf056341b4.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Play HD
+http://163.172.5.94:8080/21635/86637/5243
+#EXTINF:-1 tvg-id="ss.premier.league.za"tvg-name="SuperSport: Premier League"tvg-logo="http://myportal.live:8080/images/8bf93cf8ef05a3008b28f0729c79566b.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Premier League
+http://163.172.5.94:8080/21635/86637/4230
+#EXTINF:-1 tvg-id="ss.premier.league.za"tvg-name="SuperSport: Premier League FHD"tvg-logo="http://myportal.live:8080/images/8bf93cf8ef05a3008b28f0729c79566b.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Premier League FHD
+http://163.172.5.94:8080/21635/86637/5242
+#EXTINF:-1 tvg-id="ss.rugby.za"tvg-name="SuperSport: Rugby"tvg-logo="http://myportal.live:8080/images/a2843624bcdb705b82d97a13d862e238.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Rugby
+http://163.172.5.94:8080/21635/86637/4231
+#EXTINF:-1 tvg-id="ss.rugby.za"tvg-name="SuperSport: Rugby FHD"tvg-logo="http://myportal.live:8080/images/a2843624bcdb705b82d97a13d862e238.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Rugby FHD
+http://163.172.5.94:8080/21635/86637/5240
+#EXTINF:-1 tvg-id="ss.tennis.za"tvg-name="SuperSport: Tennis"tvg-logo="http://myportal.live:8080/images/410b173025e30bc51d6b42b8081c7c22.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Tennis
+http://163.172.5.94:8080/21635/86637/4232
+#EXTINF:-1 tvg-id="ss.tennis.za"tvg-name="SuperSport: Tennis FHD"tvg-logo="http://myportal.live:8080/images/410b173025e30bc51d6b42b8081c7c22.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Tennis FHD
+http://163.172.5.94:8080/21635/86637/5239
+#EXTINF:-1 tvg-id="wwe.za"tvg-name="SuperSport: WWE"tvg-logo="http://myportal.live:8080/images/3f20b404d607668b1d86bec3823a3562.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: WWE
+http://163.172.5.94:8080/21635/86637/4233
+#EXTINF:-1 tvg-id="wwe.za"tvg-name="SuperSport: WWE FHD"tvg-logo="http://myportal.live:8080/images/3f20b404d607668b1d86bec3823a3562.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: WWE FHD
+http://163.172.5.94:8080/21635/86637/5234
+#EXTINF:-1 tvg-id="ss.variety.1.za"tvg-name="SuperSport: Variety 01"tvg-logo="http://myportal.live:8080/images/dfdbd7c30609c79bd06b5859efdb94ef.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 01
+http://163.172.5.94:8080/21635/86637/4234
+#EXTINF:-1 tvg-id="ss.variety.1.za"tvg-name="SuperSport: Variety 1 FHD"tvg-logo="http://myportal.live:8080/images/dfdbd7c30609c79bd06b5859efdb94ef.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 1 FHD
+http://163.172.5.94:8080/21635/86637/5238
+#EXTINF:-1 tvg-id="ss.variety.2.za"tvg-name="SuperSport: Variety 02"tvg-logo="http://myportal.live:8080/images/63e194fd57ffa69b0aa913e917a56093.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 02
+http://163.172.5.94:8080/21635/86637/4235
+#EXTINF:-1 tvg-id="ss.variety.2.za"tvg-name="SuperSport: Variety 2 FHD"tvg-logo="http://myportal.live:8080/images/63e194fd57ffa69b0aa913e917a56093.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 2 FHD
+http://163.172.5.94:8080/21635/86637/5237
+#EXTINF:-1 tvg-id="ss.variety.3.za"tvg-name="SuperSport: Variety 03"tvg-logo="http://myportal.live:8080/images/b96ef5e6b20e0da37eacfa28de03f42c.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 03
+http://163.172.5.94:8080/21635/86637/4236
+#EXTINF:-1 tvg-id="ss.variety.3.za"tvg-name="SuperSport: Variety 3 HD"tvg-logo="http://myportal.live:8080/images/b96ef5e6b20e0da37eacfa28de03f42c.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 3 HD
+http://163.172.5.94:8080/21635/86637/5236
+#EXTINF:-1 tvg-id="ss.variety.4.za"tvg-name="SuperSport: Variety 04"tvg-logo="http://myportal.live:8080/images/46444ad845a9c8218b1b89bdacb94db5.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 04
+http://163.172.5.94:8080/21635/86637/4237
+#EXTINF:-1 tvg-id="ss.variety.4.za"tvg-name="SuperSport: Variety 4 FHD"tvg-logo="http://myportal.live:8080/images/46444ad845a9c8218b1b89bdacb94db5.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: Variety 4 FHD
+http://163.172.5.94:8080/21635/86637/5235
+#EXTINF:-1 tvg-id="espn.za"tvg-name="SuperSport: ESPN"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: ESPN
+http://163.172.5.94:8080/21635/86637/4220
+#EXTINF:-1 tvg-id="espn2.za"tvg-name="SuperSport: ESPN2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png"group-title="SUPERSPORT",list.alliptvlinks.com SuperSport: ESPN2
+http://163.172.5.94:8080/21635/86637/4221
+#EXTINF:-1 tvg-id=""tvg-name="24/7: TRANSPORTER"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Transporterposter.jpg"group-title="24.7 CHANNELS ",list.alliptvlinks.com 24/7: TRANSPORTER
+http://163.172.5.94:8080/21635/86637/5390
+#EXTINF:-1 tvg-id=""tvg-name="24/7: SPORTS MOVIES"tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Jzg4OaiBPiVWWSvX6egW3AHaHa&pid=Api&P=0&w=300&h=300"group-title="24.7 CHANNELS ",list.alliptvlinks.com 24/7: SPORTS MOVIES
+http://163.172.5.94:8080/21635/86637/5460
